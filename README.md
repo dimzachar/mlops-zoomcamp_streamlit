@@ -1,6 +1,6 @@
 # mlops-zoomcamp_streamlit
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://issues.streamlitapp.com)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mlops-zoomcamp-projects.streamlit.app/)
 
 See the [mlops-zoomcamp_projects_EDA](https://github.com/dimzachar/mlops-zoomcamp_projects_EDA) repo for more details.
 
